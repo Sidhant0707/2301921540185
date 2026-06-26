@@ -1,4 +1,3 @@
-
 export type NotificationType = 'Placement' | 'Result' | 'Event';
 export type PriorityLevel = 'high' | 'medium' | 'low';
 

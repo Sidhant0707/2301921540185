@@ -1,4 +1,3 @@
-
 import { Notification } from '../domain/notification';
 
 const notifications: Notification[] = [
